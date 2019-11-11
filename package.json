@@ -1,0 +1,14 @@
+{
+  "name": "discord-modulus",
+  "version": "1.0.0",
+  "description": "Modular command handler using discord.js",
+  "scripts": {
+    "build": "tsc --p ."
+  },
+  "author": "André Matos de Sousa",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.12.7",
+    "discord.js": "^11.5.1"
+  }
+}
